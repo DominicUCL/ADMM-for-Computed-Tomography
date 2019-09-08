@@ -40,4 +40,4 @@ $ py (script_name_here).py
 ```
 All methods in this project that use Machine Learning have a script to learn the parameters and a corresponding script with prefix ##evaluate_## to produce results using the parameters that have been learned. These will generate results into a folder of the same name as the function.
 
-All non-learned methods return outputs to the Results folder.
+All non-learned methods return outputs a Results folder which is created on first running.
