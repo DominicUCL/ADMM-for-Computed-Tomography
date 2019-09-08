@@ -17,7 +17,7 @@ $ pip install https://github.com/adler-j/adler/archive/master.zip
 ```
 Tensorflow (It is best to create a new virtual environment and use)
 ```console
-pip install --upgrade tensorflow
+$ pip install --upgrade tensorflow
 ```
 
 ## Others
