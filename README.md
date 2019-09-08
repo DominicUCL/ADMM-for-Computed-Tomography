@@ -1,4 +1,4 @@
-# MScDisserationInverseProblems
+# ADMM-for-Computed-Tomography
 MSc Disseration Inverse Problems in Medical Imaging
 # Alternating Direction Method of Multipliers and Machine Learning for Computed-Tomography
 
